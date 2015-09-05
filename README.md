@@ -1,4 +1,7 @@
-You can view my cv at [http://maanrouf.github.io/cv](http://maanrouf.github.io/cv)
-Thanks !
+#Qui suis-je ?
 
-Coding with **HHML5-CSS3-BOOTSTRAP**
+Je m'appele Maanrouf Abdou, de nationalité comorienne. J'ai étudié l'informatique en egypte. Aujourd'hui, Je participe au mooc developpeur Afrique Innovation depuis juillet.
+
+#Mon experience
+
+J
