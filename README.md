@@ -1,9 +1,17 @@
-#Qui suis-je ?
-Je m'appele Maanrouf Abdou, de nationalité comorienne. J'ai étudié l'informatique en egypte. Aujourd'hui, Je participe au mooc developpeur Afrique Innovation depuis juillet. J'aime me former regulièrement et le retour d'experience des autres.
+##Qui suis-je ?
+Je m'appelle Maanrouf Abdou, de nationalité comorienne. J'ai étudié l'informatique en Egypte. Aujourd'hui, Je participe au mooc développeur Afrique Innovation depuis juillet. J'aime me former régulièrement, apprendre sur les retours d'expérience des autres et prodiguer des conseils aux jeunes informaticiens inexpérimentés et désireux de suivre cette voie.
 
-#Mon experience
-Je fais des formations à la demande aux passionnés de l'informatique et aux particuliers tout genre. J'ai été superviseur du pnud pour la gestion du fichier éléctoral biometrique au sein de mon pays. Je suis également initiateur de quelques projets numeriques. 
+##Mon experience
+J'ai été superviseur du pnud pour la gestion du fichier électoral biométrique au sein de mon pays. Depuis peu, je me lance en tant que chef de projet informatique MOE.
 
-#Mon ambition
+##Mes compétences
+ -Management de projet
+ -Système d'exploitation
+ -Programmation
+ -Base de donnée
+ -Design
+ -Bureautique
+ -Réseaux tcp/ip
 
-
+##Mon ambition
+Avoir des titres et des reconnaissances pour acquerir plus des marchés. 
