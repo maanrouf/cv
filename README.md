@@ -10,9 +10,9 @@ J'ai été superviseur du pnud pour la gestion du fichier électoral biométriqu
 * Système d'exploitation
 * Programmation
 * Base de donnée
-* Design**
-* Bureautique**
-* Réseaux tcp/ip**
+* Design
+* Bureautique
+* Réseaux tcp/ip
 
 ##Mon ambition
 Avoir des titres et des reconnaissances pour acquerir plus des marchés. 
