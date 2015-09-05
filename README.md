@@ -5,13 +5,13 @@ Je m'appelle Maanrouf Abdou, de nationalité comorienne. J'ai étudié l'informa
 J'ai été superviseur du pnud pour la gestion du fichier électoral biométrique au sein de mon pays. Depuis peu, je me lance en tant que chef de projet informatique MOE.
 
 ##Mes compétences
- -Management de projet
- -Système d'exploitation
- -Programmation
- -Base de donnée
- -Design
- -Bureautique
- -Réseaux tcp/ip
+ *Management de projet
+ *Système d'exploitation
+ *Programmation
+ *Base de donnée
+ *Design
+ *Bureautique
+ *Réseaux tcp/ip
 
 ##Mon ambition
 Avoir des titres et des reconnaissances pour acquerir plus des marchés. 
